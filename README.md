@@ -191,7 +191,7 @@ Multiple questions can be passed to the RAG pipeline.
 
 ```bash
 git clone <repository-url>
-cd document-rag-faiss-groq
+cd RAG-Q-A-system-FAISS-Groq
 ```
 
 ### 2. Create a virtual environment
